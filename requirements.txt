@@ -1,0 +1,7 @@
+pandas
+numpy
+streamlit
+prediction
+prophet
+Flask
+Scikit-learn
